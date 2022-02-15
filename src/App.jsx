@@ -9,6 +9,7 @@ import First from './components/First';
 import Exp from './components/Exp';
 import Project from './components/Project';
 import Education from './components/Education';
+import image from './r2.png'
 function App() {
   
   return (
@@ -33,7 +34,7 @@ function App() {
       </div>
      </div>
      <div className='emoji'>
-<img src="https://github.com/2devyank/portfolio-devyank/blob/main/r2.png?raw=true" alt="" />
+<img src={image} alt="" />
      </div>
     </div>
   
