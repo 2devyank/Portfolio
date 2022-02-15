@@ -1,0 +1,58 @@
+.bel img {
+   width: 240px;
+   align-self: center;
+}
+.top{
+    padding: 10px 50px;
+    background: rgb(217, 217, 230);
+}
+.top h2{
+    font-size: 50px;
+ /* margin: 0 auto; */
+ align-items: center;
+ align-self: center;
+}
+.bel{
+    display: flex;
+    padding: 30px 50px;
+    gap: 50px;
+}
+/* .one{ */
+    /* width: 50%; */
+    /* border: 1px solid red; */
+    /* align-items: center; */
+/* }  */
+.one{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* border: 1px solid red; */
+    text-align: center;
+}
+.two{
+    /* width: 50%; */
+    text-align: center;
+    /* border: 1px solid red; */
+}
+.two span{
+    color: rgb(80, 45, 45);
+    font-size: 25px;
+}
+.one a{
+    text-decoration: none;
+    font-size:20px ;
+    
+}
+.two p{
+    font-size: 20px;
+    /* max-width: 50%; */
+}
+@media (max-width:800px){
+    .bel{
+        display: block;
+        padding: 20px 20px;
+    }
+    .top{
+        padding: 30px 30px;
+    }
+}

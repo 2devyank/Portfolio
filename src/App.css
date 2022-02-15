@@ -1,0 +1,78 @@
+.App{
+  padding: 100px 100px;
+  background: rgb(217, 217, 230);
+  overflow: hidden;
+}
+.dis{
+  display: flex;
+  /* border: 1px solid red; */
+  /* gap: 50px; */
+  /* align-items: flex-start; */
+  gap: 30px;
+}
+.written{
+  width: 50%;
+  text-align: center;
+  /* border: 1px solid red; */
+  /* align-self: center; */
+  padding: 30px 30px;
+}
+.written p{
+  font-size: 35px;
+  /* text-transform: capitalize; */
+  color: rgb(87, 65, 65);
+}
+.written h2{
+  font-size: 45px;
+}
+.emoji{
+  width: 50%;
+  /* border: 1px solid red; */
+}
+.emoji img{
+  max-width: 120%;
+  align-self: center;
+}
+.icon{
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 20px;
+  justify-content: center;
+}
+.below{
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.btn{
+  padding:20px 20px;
+  border-radius: 4rem;
+  border: none;
+  background: rgb(106, 197, 106);
+  color: blueviolet;
+}
+
+@media(max-width:800px){
+  .App{
+    padding: 20px 20px;
+  }
+.dis{
+  display: block;
+padding: 0px;
+}
+.written{
+padding: 0px;
+  width: 100%;
+  margin-top: 30px;
+}
+.emoji{
+  margin-top: 30px;
+  width: 100%;
+  /* margin-right: 40px; */
+}
+.emoji img{
+ margin-right: 40px;
+}
+}
