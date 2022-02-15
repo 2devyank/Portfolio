@@ -5,9 +5,11 @@
 
 .edu h2{
     font-size: 50px;
+    
 }
 .edu{
     padding: 50px 50px;
+    background: rgb(217, 217, 230);
 }
 .combo{
     padding: 25px 25px;

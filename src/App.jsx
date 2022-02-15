@@ -10,6 +10,7 @@ import Exp from './components/Exp';
 import Project from './components/Project';
 import Education from './components/Education';
 import image from './r2.png'
+import Writings from './components/Writings';
 function App() {
   
   return (
@@ -25,12 +26,13 @@ function App() {
       <div className="below">
         <div className='icon'>
 
-        <a href="https://github.com/2devyank"><BsGithub style={{height:"40px",width:"40px"}}/></a>
-        <a href="https://www.linkedin.com/in/devyank-nagpal-58564a204/"><FaLinkedin style={{height:"40px",width:"40px"}}/></a>
-        <a href="mailto:devyanknagpal2002@gmail.com"><GrMail style={{height:"40px",width:"40px"}}/></a>
-        <a href="https://twitter.com/DevyankNagpal"><BsTwitter style={{height:"40px",width:"40px"}}/></a>
+        <a href="https://github.com/2devyank" target="_blank"><BsGithub style={{height:"40px",width:"40px"}}/></a>
+        <a href="https://www.linkedin.com/in/devyank-nagpal-58564a204/" target="_blank"><FaLinkedin style={{height:"40px",width:"40px"}}/></a>
+        <a href="mailto:devyanknagpal2002@gmail.com" target="_blank"><GrMail style={{height:"40px",width:"40px"}}/></a>
+        <a href="https://twitter.com/DevyankNagpal" target="_blank"><BsTwitter style={{height:"40px",width:"40px"}}/></a>
         </div>
-       
+    
+      
       </div>
      </div>
      <div className='emoji'>
@@ -43,6 +45,7 @@ function App() {
     <Exp/>
     <Project/>
     <Education/>
+    <Writings/>
     </div>
   
   )

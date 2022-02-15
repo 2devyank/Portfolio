@@ -14,8 +14,8 @@ export default function Project() {
     <br />
     <h3>Shopping Cart</h3>
     <br />
-    <a href="https://keen-lalande-f88d6e.netlify.app/">   <Button>Live Site</Button></a> <span></span>
-         <a href="https://github.com/2devyank/Shopping-Cart">  <Button>Github</Button></a> 
+    <a href="https://devyank-shopping.netlify.app/" target="_blank">   <Button>Live Site</Button></a> <span></span>
+         <a href="https://github.com/2devyank/Shopping-Cart" target="_blank">  <Button>Github</Button></a> 
   </div>
     {/* <Card>
         <Card.Img variant="top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDbHlteV_T2SNbJjASrWKUMh7-2XvEaMxoJg&usqp=CAU" style={{width:"100%"}} />
@@ -34,8 +34,8 @@ export default function Project() {
     <br />
     <h3>Budget Tracker</h3>
     <br />
-    <a href="https://priceless-kirch-bfea14.netlify.app/"><Button>Live Site</Button></a> <span></span>
-      <a href="https://github.com/2devyank/Budget"><Button>Github</Button></a> 
+    <a href="https://priceless-kirch-bfea14.netlify.app/" target="_blank"><Button>Live Site</Button></a> <span></span>
+      <a href="https://github.com/2devyank/Budget" target="_blank"><Button>Github</Button></a> 
   </div>
       {/* <Card>
         <Card.Img variant="top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh_ITGBzzLjdTKzH2_vQStN1ga6zsDt_Iytw&usqp=CAU" style={{width:"100%"}}/>
