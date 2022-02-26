@@ -12,11 +12,11 @@ export default function First() {
   <img src="https://img.icons8.com/color/2x/javascript.png" alt="" style={{height:"30px",width:30px}}/>
   </div>
   <br />
-//   <div><h3>
+  <div><h3>
     
-//     Languages
-//     </h3>
-//     </div>
+    Language
+    </h3>
+    </div>
   </div>
  <div className='sec'>
  <div className='st'>
@@ -24,12 +24,12 @@ export default function First() {
     <img src="https://img.icons8.com/color/2x/vue-js.png" alt="" style={{height:"30px",width:30px}}/>
   </div>
   <br />
-//    <div>
-// <h3>
+   <div>
+<h3>
   
-//   FrameWorks
-//   </h3>
-//    </div>
+  FrameWork
+  </h3>
+   </div>
  </div>
   
   
