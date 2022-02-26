@@ -8,8 +8,8 @@ export default function First() {
 <div className='big'>
   <div className='half'>
   <div className='s'>
-    <img src="https://img.icons8.com/ios/2x/java-coffee-cup-logo.png" alt="" />
-  <img src="https://img.icons8.com/color/2x/javascript.png" alt="" />
+    <img src="https://img.icons8.com/ios/2x/java-coffee-cup-logo.png" alt="" style={{height:"40px",width:40px}}/>
+  <img src="https://img.icons8.com/color/2x/javascript.png" alt="" style={{height:"40px",width:40px}}/>
   </div>
   <br />
   <div><h3>
@@ -20,8 +20,8 @@ export default function First() {
   </div>
  <div className='sec'>
  <div className='st'>
-    <img src="https://img.icons8.com/ultraviolet/2x/react.png" alt="" />
-    <img src="https://img.icons8.com/color/2x/vue-js.png" alt="" />
+    <img src="https://img.icons8.com/ultraviolet/2x/react.png" alt="" style={{height:"40px",width:40px}}/>
+    <img src="https://img.icons8.com/color/2x/vue-js.png" alt="" style={{height:"40px",width:40px}}/>
   </div>
   <br />
    <div>
