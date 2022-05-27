@@ -3,7 +3,7 @@ import './Style.css'
 export default function Exp() {
   return (
     <div className='top'>
-      <h2>Experience</h2>
+      <h2>Volunteer Experience</h2>
       <div className='bel'>
     <div className='one'>
     
@@ -11,7 +11,7 @@ export default function Exp() {
       <a href="https://dsc-adgitm.web.app/">GDSC ADGITM</a>
     </div>
     <div className='two'>
-<h3>Web Beginner's - Mentor</h3>
+<h3>Web Lead</h3>
 <span>sep'21 - present</span>
 <p> My Responsibility includes to manage Web opaerations ,  <br />
   to take sessioin on Web and last but not< br />the least to help our community in learning web </p>

@@ -34,7 +34,7 @@ export default function Project() {
     <br />
     <h3>Budget Tracker</h3>
     <br />
-    <a href="https://priceless-kirch-bfea14.netlify.app/" target="_blank"><Button>Live Site</Button></a> <span></span>
+    <a href="https://devyankbudget.netlify.app/" target="_blank"><Button>Live Site</Button></a> <span></span>
       <a href="https://github.com/2devyank/Budget" target="_blank"><Button className="btn">Github</Button></a> 
   </div>
       {/* <Card>

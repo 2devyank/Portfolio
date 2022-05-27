@@ -67,6 +67,9 @@ padding: 0px;
   width: 100%;
   margin-top: 30px;
 }
+.written p{
+  font-size: 20px;
+}
 .emoji{
   margin-top: 30px;
   width: 100%;

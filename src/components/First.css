@@ -55,10 +55,15 @@
     .big{
         display: block;
     }
-    .half{
+    .s{
         width:100%;
+       
     }
-    .sec{
+    .st{
         width: 100%;
+       
     }
+   .fir{
+       padding: 20px 10px
+   }
 }

@@ -20,8 +20,8 @@ function App() {
      <div className='written'>
        <div className="upper">
        <h2>Hi , I'm Devyank 👋</h2>
-       <p>I'm a Frontend Developer , having an experience of working with react & Vue Always eager to  
-         learn new Skills , aspiring Full Stack Developer</p>
+       <p>I'm a Developer , having an experience of working with Web Techonologies , Always eager to  
+         learn new Skills , currently I'm Web Lead at Google Developer Students Club ADGITM</p>
        </div>
       <div className="below">
         <div className='icon'>
