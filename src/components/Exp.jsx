@@ -1,5 +1,7 @@
 import React from 'react'
 import './Style.css'
+
+import gdsc from "../../gdsc-social-share.png"
 export default function Exp() {
   return (
     <div className='top'>
@@ -7,14 +9,14 @@ export default function Exp() {
       <div className='bel'>
     <div className='one'>
     
-      <img src="https://uday-yadav.web.app/assets/dsc-logo.6d405641.png" alt="" />
+      <img src={gdsc} alt="" />
       <a href="https://dsc-adgitm.web.app/">GDSC ADGITM</a>
     </div>
     <div className='two'>
 <h3>Web Lead</h3>
-<span>sep'21 - present</span>
-<p> My Responsibility includes to manage Web opaerations ,  <br />
-  to take sessioin on Web and last but not< br />the least to help our community in learning web </p>
+<span>Sep'21 - Aug'22</span>
+<p> My Responsibilities included to manage Web operations ,  <br />
+  to take session on Web technology and last but not< br />the least to help our community in learning web technologies </p>
     </div>
       </div>
     </div>

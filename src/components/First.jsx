@@ -6,8 +6,9 @@ import m from '../../mongodb.png'
 import p from '../../postgresql.png'
 import r from '../../react.png'
 import u from '../../vuejs.png'
-import f from '../../figma.png'
+// import f from '../../figma.png'
 import g from '../../git.png'
+import f from "../../firebase.png"
 // import java from '../../java.png'
 
 export default function First() {
