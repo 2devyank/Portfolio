@@ -20,7 +20,7 @@ export default function Education() {
 <img src="https://thisisfaar.netlify.app/static/media/ggsipu.9e0651ab.png" alt="" /><br />
 <div className='text'>
 <h4>Guru Gobind Singh Indraprastha University</h4>
-<h5>BTech in Computer Science</h5>
+<h5>Btech in Computer Science</h5>
 <h5>2020-present</h5>
 </div>
 

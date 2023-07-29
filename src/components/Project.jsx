@@ -15,7 +15,7 @@ export default function Project() {
     <br />
     <h3>Batwara</h3>
     <br />
-    <a href="https://batwarafrontend-production.up.railway.app" target="_blank">   <Button>Live Site</Button></a> <span></span>
+    <a href="https://devyankbatwara.netlify.app/" target="_blank">   <Button>Live Site</Button></a> <span></span>
          <a href="https://github.com/2devyank/batwara_frontend" target="_blank">  <Button className="btn">Github</Button></a> 
   </div>
    
